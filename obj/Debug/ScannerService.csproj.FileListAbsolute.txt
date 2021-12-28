@@ -1,0 +1,8 @@
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\bin\ScannerService.pdb
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\obj\Debug\ScannerService.csproj.CoreCompileInputs.cache
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\obj\Debug\ScannerService.pdb
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\bin\ScannerService.exe.config
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\bin\ScannerService.exe
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\obj\Debug\ScannerService.exe
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\bin\Interop.WIA.dll
+C:\Users\Biawajit\Desktop\ScannerService\ScannerService\obj\Debug\ScannerService.csproj.CopyComplete
